@@ -1,0 +1,17 @@
+.parent-slider{
+    height: 420px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+background-color:rgb(2, 2, 104);
+}
